@@ -47,7 +47,7 @@ A flutter app with the following structure in the ```lib``` folder
 |    |--widgets
 |    |  |--widget.dart
 |    |--presentation.dart
-|--feature.dart
+|--name.dart
 
 ## Failure
 Failure could be 
