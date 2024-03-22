@@ -1,14 +1,12 @@
-import 'package:get/get.dart';
+import 'package:flutter/material.dart';
+import '../../domain/domain.dart';
 
-class {{name.pascalCase}}Screen extends GetView<{{name.pascalCase}}Logic> {
-  const {{name.pascalCase}}Screen({super.key});
+class {{name.pascalCase()}}Screen extends BaseCommonScreen<{{name.pascalCase()}}Logic> {
+  {{name.pascalCase()}}Screen({super.key});
 
   @override
-  Widget build(BuildContext context) {
-    return GetBuilder<{{name.pascalCase}}Logic>(
-      builder: (_) {
-        return SizeBox();
-      },
-    );
+  Widget buildContent() {
+    // TODO: implement buildContent
+    throw UnimplementedError();
   }
 }

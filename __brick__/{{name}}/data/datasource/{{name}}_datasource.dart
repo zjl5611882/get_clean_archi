@@ -1,9 +1,8 @@
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
+import '../data.dart';
 
-class {{name.pascalCase}}Data {
-  {{name.pascalCase}}Model {{name.camelCase()}}Model = const {{name.pascalCase}}Model();
-  {{name.pascalCase}}Data() {
-    {{name.camelCase()}}Model = const {{name.pascalCase}}Model();
+class {{name.pascalCase()}}Datasource {
+  {{name.pascalCase()}}Model {{name.camelCase()}}Model = const {{name.pascalCase()}}Model();
+  {{name.pascalCase()}}Datasource() {
+    {{name.camelCase()}}Model = const {{name.pascalCase()}}Model();
   }
 }
