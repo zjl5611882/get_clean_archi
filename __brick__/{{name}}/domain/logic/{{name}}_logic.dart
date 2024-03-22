@@ -1,7 +1,7 @@
 import '../../data/data.dart';
 
 class {{name.pascalCase()}}Logic extends BaseController {
-  {{name.pascalCase()}}Data {{name.camelCase()}}Data = {{name.pascalCase()}}Data();
+  {{name.pascalCase()}}Datasource {{name.camelCase()}}Datasource = {{name.pascalCase()}}Datasource();
 
   @override
   void initData() {
