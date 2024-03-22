@@ -1,6 +1,6 @@
-name: get_clean_arch
+name: get_clean_archi
 description: A new brick created with the Mason CLI.
-repository: https://github.com/zjl5611882/get_clean_arch
+repository: https://github.com/zjl5611882/get_clean_archi
 # The following defines the brick repository url.
 # Uncomment and update the following line before publishing the brick.
 # repository: https://github.com/my_org/my_repo

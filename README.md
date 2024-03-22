@@ -1,6 +1,6 @@
-# get_clean_arch
+# get_clean_archi
 
-# get_clean_arch
+# get_clean_archi
 
 Generates a Flutter/Dart directories with Clean Architecture Structure.
 
@@ -10,7 +10,7 @@ Generates a Flutter/Dart directories with Clean Architecture Structure.
 ## Usage 🚀
 
 ```sh
-mason make get_clean_arch
+mason make get_clean_archi
 ```
 
 ## Variables ✨
