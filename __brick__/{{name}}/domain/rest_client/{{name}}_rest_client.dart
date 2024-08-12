@@ -1,5 +1,6 @@
 import 'package:dio_http/dio_http.dart';
 import 'package:retrofit/http.dart';
+import '../../data/data.dart';
 
 part '{{name}}_rest_client.g.dart';
 
