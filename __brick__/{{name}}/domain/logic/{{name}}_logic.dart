@@ -1,13 +1,4 @@
-//get中的SuperController -> BaseLogic -> BaseCommonLogic
-class {{name.pascalCase()}}Logic extends BaseCommonLogic {
+import 'package:get/get.dart';
+class {{name.pascalCase()}}Logic extends GetxController {
 
-  @override
-  void initData() {
-    // TODO: implement initData
-  }
-  
-  @override
-  void onHidden() {
-    // TODO: implement onHidden
-  }
 }
